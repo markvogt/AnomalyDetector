@@ -1,3 +1,14 @@
+## MARK'S JOURNAL
+### 2022 04 11
+- FORKED repo from Azure-Samples/AnomalyDetection
+- CLONED to MEV personal laptop > C:\Development\github
+- UPDATED readme.
+- EXPLORED files
+
+==========================
+
+
+## ORIGINAL README FILE STARTS HERE
 ---
 page_type: sample
 languages:
